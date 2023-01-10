@@ -1,4 +1,3 @@
-#Projenin çalıştırılması için tasarlanan kodlar Arduino IDE programı kullanılmıştır.#
 #include <Keypad.h>
 #include <Servo.h>
 #include <LiquidCrystal_I2C.h>   
@@ -133,4 +132,4 @@ void loop()
       
       }
   
-  } 
+  }
